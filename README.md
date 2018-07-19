@@ -1,5 +1,4 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/25CyNo-OPio" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+[Demo](https://youtubevideourl)
 
 # Retail-CLI ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
