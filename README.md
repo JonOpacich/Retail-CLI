@@ -1,3 +1,4 @@
+<iframe width="560" height="315" src="https://www.youtube.com/embed/25CyNo-OPio" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 # Retail-CLI ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 A demonstration of a amazon-esque retail store served over the command line. The app utilizes both Node.js for hosting and the mySQL database for data storage.
