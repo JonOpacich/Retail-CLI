@@ -1,4 +1,4 @@
-[Demo](https://youtubevideourl)
+[Demo](https://youtu.be/25CyNo-OPio)
 
 # Retail-CLI ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
