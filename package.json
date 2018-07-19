@@ -1,0 +1,23 @@
+{
+  "name": "retail-cli",
+  "version": "1.0.0",
+  "description": "A command line interface for selling goods and tracking inventory using node.js and mySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonOpacich/Retail-CLI.git"
+  },
+  "author": "Jonathan W Opacich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonOpacich/Retail-CLI/issues"
+  },
+  "homepage": "https://github.com/JonOpacich/Retail-CLI#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  }
+}
